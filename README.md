@@ -1,7 +1,7 @@
 Twitter-Trends
 ==============
 
-![alt tag](https://github.com/aaron-feldman/Twitter-Trends/blob/master/example_image.png)
+![alt tag](https://raw.github.com/aaron-feldman/Twitter-Trends/blob/master/example_image.png)
 
 Developing a geographic visualization of Twitter data for keywords with associated "sentiment" (ie. positive or negative feelings)
 
